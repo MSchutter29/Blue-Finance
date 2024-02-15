@@ -1,0 +1,37 @@
+﻿Industry,Source,Value
+Aquatic Foods,Development Bank,0.001020655
+Aquatic Foods,Intergovernmental,0.000302655
+Aquatic Foods,Private,0.000237169
+Aquatic Foods,Public,0.00051298
+Bioprospecting,Development Bank,0.0002
+Bioprospecting,Intergovernmental,0.000130507
+Bioprospecting,Private,0.0001908
+Bioprospecting,Public,0.0004625
+Conservation,Development Bank,0.000518151
+Conservation,Intergovernmental,0.015546496
+Conservation,Private,0.002413111
+Conservation,Public,0.016064812
+Oil/Gas/Seabed Mining,Development Bank,0
+Oil/Gas/Seabed Mining,Intergovernmental,0.00E+00
+Oil/Gas/Seabed Mining,Private,1.29E-05
+Oil/Gas/Seabed Mining,Public,1.41697E-05
+Ports & Shipping,Development Bank,4.33E-03
+Ports & Shipping,Intergovernmental,3.08E-05
+Ports & Shipping,Private,6.97E-05
+Ports & Shipping,Public,8.28516E-05
+Renewable Energy,Development Bank,0.100645161
+Renewable Energy,Intergovernmental,4.89E-04
+Renewable Energy,Private,6.74E-05
+Renewable Energy,Public,0.00011856
+Research/Education,Development Bank,0
+Research/Education,Intergovernmental,0.006476609
+Research/Education,Private,0.000314025
+Research/Education,Public,0.000950568
+Tourism,Development Bank,0.00E+00
+Tourism,Intergovernmental,9.08E-06
+Tourism,Private,0
+Tourism,Public,6.91769E-05
+Waste/pollution management,Development Bank,0.004728939
+Waste/pollution management,Intergovernmental,8.71035E-05
+Waste/pollution management,Private,0.000293636
+Waste/pollution management,Public,0.002435603
